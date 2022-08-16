@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## 4.4.0 (2022-08-15)
+
+
+### Features
+
+* add setting file ([e42c7d4](http://git.dtstack.cn/dtstack/manage.front/commit/e42c7d40a7a6ba6cfb026d5db74075ae2ee2ea28))
+
 ### [4.3.1-beta](http://git.dtstack.cn/dtstack/manage.front/compare/v4.3.0-beta...v4.3.1-beta) (2022-03-01)
 
 
